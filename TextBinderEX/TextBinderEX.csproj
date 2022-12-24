@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>TextBinderEX.ico</ApplicationIcon>
+    <ApplicationIcon>003_07.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MyLib">
@@ -89,7 +89,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TextBinderEX.ico" />
+    <Content Include="003_07.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
